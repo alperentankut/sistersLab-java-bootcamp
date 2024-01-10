@@ -10,7 +10,7 @@ public class case5 {
         System.out.print("Birinci sayıyı girin: ");
         int sayi1 = scanner.nextInt();
 
-        System.out.print("İkinci sayıyı girin: ");
+        System.out.print("İkinci sayıyı girin : ");
         int sayi2 = scanner.nextInt();
 
         System.out.print("Üçüncü sayıyı girin: ");
